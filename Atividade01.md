@@ -11,4 +11,4 @@
 # README.MD
 > Readme.md (Markdown) arquivo que permite escrever texto e estilizar, quando se é escrito em caixa alta, ele vira arquivo de destaque do repositorio e do perfil.
 # ISSUES
-> issues aão uma forma de manter o controle quando alguem abre um chamado, para informar melhoria ou correção de algo do projeto.
+> issues são uma forma de manter o controle quando alguem abre um chamado, para informar melhoria ou correção de algo do projeto.
